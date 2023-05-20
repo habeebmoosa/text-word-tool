@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/text-word-tool/static/css/main.e6686706.css",
-    "main.js": "/text-word-tool/static/js/main.9ff26c0f.js",
+    "main.js": "/text-word-tool/static/js/main.f93d0aa5.js",
     "static/js/787.34e1f96e.chunk.js": "/text-word-tool/static/js/787.34e1f96e.chunk.js",
     "index.html": "/text-word-tool/index.html",
     "main.e6686706.css.map": "/text-word-tool/static/css/main.e6686706.css.map",
-    "main.9ff26c0f.js.map": "/text-word-tool/static/js/main.9ff26c0f.js.map",
+    "main.f93d0aa5.js.map": "/text-word-tool/static/js/main.f93d0aa5.js.map",
     "787.34e1f96e.chunk.js.map": "/text-word-tool/static/js/787.34e1f96e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6686706.css",
-    "static/js/main.9ff26c0f.js"
+    "static/js/main.f93d0aa5.js"
   ]
 }
